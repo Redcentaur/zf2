@@ -132,6 +132,8 @@ abstract class AbstractHelper extends BaseAbstractHelper
         'role'               => true,
         'aria-labelled-by'   => true,
         'aria-described-by'  => true,
+        'aria-describedby'   => true,
+        'aria-labelledby'    => true,
         'spellcheck'         => true,
         'style'              => true,
         'tabindex'           => true,
